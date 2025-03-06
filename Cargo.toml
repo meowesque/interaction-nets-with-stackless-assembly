@@ -1,6 +1,0 @@
-[package]
-name = "interaction-nets-with-stackless-assembly"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]

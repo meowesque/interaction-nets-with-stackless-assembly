@@ -1,0 +1,6 @@
+package nets
+version = 0.0.1
+sourcedir = "src"
+main = Main
+executable = nets
+modules = Core
